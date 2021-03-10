@@ -13,10 +13,6 @@ public class Persona {
 		this.cognome = cognome;
 		this.eta = eta;
 	}
-	
-	public String dettagli() {
-		return this.nome + this.cognome + this.eta;
-	}
 
 	@Override
 	public String toString() {
