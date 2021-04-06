@@ -1,0 +1,10 @@
+Gestione figure geometriche:
+
+1.Menu di scelta della figura geometrica da inserire
+2.Per ogni figura geometrica occorre calcolare l'area e il perimetro fornendo i dai di input necessari
+3.Ogni singola figura geometrica va archiviata all'interno di un ArrayList
+4.Visualizzazione di una singola figura geometrica (Dati di input e l'area e il perimetro)
+5.Visualizzazione di tutte le figure geometriche (Dati di input e l'area e il perimetro)
+6.Modificare la figura geometrica (lato, raggio...)
+7.Eliminare una figura geometrica
+8.Salvataggio e ripristino delle figure geometriche.
